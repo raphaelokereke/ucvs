@@ -1,0 +1,2 @@
+1. Add project plan
+2. Add architecture thoughts in Visio
